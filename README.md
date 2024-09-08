@@ -2,7 +2,8 @@
 - 👀 Interests in programming...
 - 🌱 Absorbing knowledge about c++,sql,html,css,js ....
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: entertainment
+
 
 <!---
 ifeel-awais/ifeel-awais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
